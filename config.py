@@ -27,7 +27,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 16000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002039714620))
 
 # Get this value from  on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 6134246701))
+OWNER_ID = int(getenv("OWNER_ID", 6914523736))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -39,7 +39,7 @@ UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/subhichiku/Subhi",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Subhi")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Chiku")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
