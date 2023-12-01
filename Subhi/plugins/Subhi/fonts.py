@@ -1,7 +1,7 @@
 from pyrogram import  filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from Subhi.utils.Subhi_font import Fonts
+from Subhi.utils import Fonts
 from Subhi import app
 
 @app.on_message(filters.command(["font", "fonts"]))
