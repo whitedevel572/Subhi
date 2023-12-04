@@ -25,7 +25,7 @@ from strings import get_string
 
 
 
-Sofia_PICS = [
+Subhi_PICS = [
 "https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
 "https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
 "https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
