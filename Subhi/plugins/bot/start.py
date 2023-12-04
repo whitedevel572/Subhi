@@ -26,18 +26,18 @@ from strings import get_string
 
 
 Subhi_PICS = [
-"https://graph.org/file/f73f8ab100aa73b3286f5.jpg",
-"https://graph.org/file/f73f8ab100aa73b3286f5.jpg",
-"https://graph.org/file/f73f8ab100aa73b3286f5.jpg",
-"https://telegra.ph/file/a3286fb5ad351ffe9e22d.jpg",
-"https://telegra.ph/file/bea2db6d988dadbf34bdb.jpg",
-"https://telegra.ph/file/a3286fb5ad351ffe9e22d.jpg",
-"https://telegra.ph/file/ec1e6496b792ce8c1d10c.jpg",
-"https://telegra.ph/file/ec1e6496b792ce8c1d10c.jpg",
-"https://telegra.ph/file/a3286fb5ad351ffe9e22d.jpg",
-"https://telegra.ph/file/bea2db6d988dadbf34bdb.jpg",
-"https://telegra.ph/file/a3286fb5ad351ffe9e22d.jpg",
-"https://telegra.ph/file/a3286fb5ad351ffe9e22d.jpg"
+"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
+"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
+"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
+"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
+"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
+"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
+"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
+"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
+"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
+"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
+"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
+"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg"
 
 ]
 
