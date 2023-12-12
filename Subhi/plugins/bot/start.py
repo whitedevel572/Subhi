@@ -38,6 +38,7 @@ Subhi_PICS = [
 "https://telegra.ph/file/94dc035df11dfb159b999.jpg",
 "https://telegra.ph/file/fed9a5b1cbaaefc3a818c.jpg",
 "https://telegra.ph/file/66fd03632cbb38bdb4193.jpg"
+
 ]
 
 
