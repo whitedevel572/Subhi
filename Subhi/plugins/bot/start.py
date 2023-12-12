@@ -26,20 +26,18 @@ from strings import get_string
 
 
 Subhi_PICS = [
-"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
-"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
-"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
-"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
-"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
-"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
-"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
-"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
-"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
-"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
-"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg",
-"https://telegra.ph/file/23805fd4694aac7a23b0f.jpg"
-
-
+"https://telegra.ph/file/2e85d11aefdf6cd01301b.jpg",
+"https://telegra.ph/file/0a08b180583f13952336a.jpg",
+"https://telegra.ph/file/ace92d59d19127d2d4e89.jpg",
+"https://telegra.ph/file/bb0a28259990c6a978985.jpg",
+"https://telegra.ph/file/ace92d59d19127d2d4e89.jpg",
+"https://telegra.ph/file/a0db46dfacd94e489117b.jpg",
+"https://telegra.ph/file/cd77be2595cdc2fca60a3.jpg",
+"https://telegra.ph/file/632724b3d30c691247c77.jpg",
+"https://telegra.ph/file/a2d01afe4f2cb1d4b650c.jpg",
+"https://telegra.ph/file/94dc035df11dfb159b999.jpg",
+"https://telegra.ph/file/fed9a5b1cbaaefc3a818c.jpg",
+"https://telegra.ph/file/66fd03632cbb38bdb4193.jpg"
 ]
 
 
@@ -66,7 +64,7 @@ async def start_pm(client, message: Message, _):
                 )
             return
         if name[0:3] == "inf":
-            m = await message.reply_text("🔎")
+            m = await message.reply_text("😘")
             query = (str(name)).replace("info_", "", 1)
             query = f"https://www.youtube.com/watch?v={query}"
             results = VideosSearch(query, limit=1)
