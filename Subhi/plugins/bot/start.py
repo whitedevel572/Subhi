@@ -1,4 +1,4 @@
-from Subhi import Zaid, BOT_USERNAME
+from Subhi import Subhi, BOT_USERNAME
 from Config import Config
 from pyrogram import events, Button
 
