@@ -35,7 +35,7 @@ async def init():
         pass
     await app.start()
     for all_module in ALL_MODULES:
-        importlib.import_module("Subhi.plugins" + all_module)
+        importlib.import_module("Baby.plugins" + all_module)
     LOGGER("Subhi.plugins").info("𝐀𝐥𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐋𝐨𝐚𝐝𝐞𝐝 𝐁𝐚𝐛𝐲🥳...")
     await userbot.start()
     await Subhi.start()
@@ -43,19 +43,19 @@ async def init():
         await Subhi.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
     except NoActiveGroupCall:
         LOGGER("Subhi").error(
-            "𝗣𝗹𝗭 𝗦𝗧𝗔𝗥𝗧 𝗬𝗢𝗨𝗥 𝗟𝗢𝗚 𝗚𝗥𝗢𝗨𝗣 𝗩𝗢𝗜𝗖𝗘𝗖𝗛𝗔𝗧\𝗖𝗛𝗔𝗡𝗡𝗘𝗟\n\n𝐒𝐔𝐁𝐇𝐈  𝗕𝗢𝗧 𝗦𝗧𝗢𝗣........"
+            "𝗣𝗹𝗭 𝗦𝗧𝗔𝗥𝗧 𝗬𝗢𝗨𝗥 𝗟𝗢𝗚 𝗚𝗥𝗢𝗨𝗣 𝗩𝗢𝗜𝗖𝗘𝗖𝗛𝗔𝗧\𝗖𝗛𝗔𝗡𝗡𝗘𝗟\n\nBABY  𝗕𝗢𝗧 𝗦𝗧𝗢𝗣........"
         )
         exit()
     except:
         pass
     await Subhi.decorators()
     LOGGER("Subhi").info(
-        "╔═════ஜ۩۞۩ஜ════╗\n  ♕𝗠𝗔𝗗𝗘 𝗕𝗬  𝐒𝐔𝐁𝐇𝐈 𝐋𝐎𝐕𝐄♕\n╚═════ஜ۩۞۩ஜ════╝"
+        "╔═════ஜ۩۞۩ஜ════╗\n  ♕𝗠𝗔𝗗𝗘 𝗕𝗬 BABY♕\n╚═════ஜ۩۞۩ஜ════╝"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("Subhi").info("𝗦𝗧𝗢𝗣 𝐒𝐔𝐁𝐇𝐈 𝐋𝐎𝐕𝐄🎻 𝗕𝗢𝗧..")
+    LOGGER("BABY").info("𝗦𝗧𝗢𝗣 BABY 🎻 𝗕𝗢𝗧..")
 
 
 if __name__ == "__main__":
